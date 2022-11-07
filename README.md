@@ -1,4 +1,4 @@
-<h1>"Notice Wall" using NodeJS as core technology.<h1>
+<h1>"Notice Wall" using NodeJS(Express) as core technology.<h1>
 <br>
 
 <img height="500em" src="https://github.com/ViniStrife/NoticeWall-NodeJS-/blob/main/public/assets/Instructions/animation.gif">
